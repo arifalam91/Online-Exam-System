@@ -1,0 +1,110 @@
+/* CSS Document */
+body{
+	margin:0px;
+	padding:0px;
+	font-size:11px;
+	font-family:Tahoma,Arial;
+	background-color:#FFFF99;
+}
+
+.body_table{
+	width:100%;
+}
+
+.topmenu{
+	float:right;
+}
+
+.body_header{
+	height:70px;
+	border-bottom:1px solid #006699;
+	vertical-align:top;
+}
+
+.body_footer{
+	height:50px;
+	border-top:1px solid #006699;
+	text-align:center;
+}
+
+.errormsg{
+	color:red;
+}
+
+.leftmenu{
+	width:150px;
+	border-right:1px solid #006699;
+	line-height:20px;
+	padding-left:10px;
+	vertical-align:top;
+}
+
+.leftmenu a{
+	text-decoration:none;
+	color:#000000;
+}
+
+.leftmenu a:hover{
+	text-decoration:underline;
+	color:#0033CC;
+}
+
+.list, .form{
+	padding-left:30px;
+}
+
+.table_header{
+	background-color:#003399;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.table_header td{
+	padding:5px;
+	width:150px;
+}
+
+.table_row td{
+	padding:5px;
+	border-bottom:1px solid #CCCCCC;
+}
+
+.table_title{
+	padding:5px;
+	font-weight:bold;
+	color:#CC0000;
+	font-size:14px;
+}
+
+.table_options{
+	padding:5px;
+	text-align:right;
+}
+
+.cmheader{
+	font-weight:bold;
+	border-bottom:1px solid #999999;
+}
+
+.date_format{
+	color:#FF0000;
+}
+
+.text_area{
+	background-color:#999999;
+}
+
+.examtopmenu{
+	color:#0000FF;
+}
+
+.exam_title{
+	font-weight:bold;
+	color:#FF0000;
+}
+
+.reporttitle
+{
+	font-size:14px bold;
+	font-weight:bold;
+}
