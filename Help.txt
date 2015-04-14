@@ -1,2 +1,3 @@
-I have added to folders:
-	1. 
+I have added two folders:
+  1.  examProd: This folder is containing databases. Copy the complete folder "examProd" into  "mySql/bin/data".
+  2.   exam: This folder is containing the codes, images, css and js libraries. 
